@@ -1,1 +1,0 @@
-# sentinelite-cybersecurity
